@@ -8,7 +8,7 @@ The analytics section contains **3** main questions, with questions A and B havi
 
 **A: Probability** — understanding of basic probability principles. 
 
-**B: Data Interpretation** — You are provided with a dataset and some general information. You are requested to provide answers based on information contained in the data provided. The questions require you to perform calculations (arithmetic only) and smanipulate the data to obtain answers 
+**B: Data Interpretation** — You are provided with a dataset and some general information. You are requested to provide answers based on information contained in the data provided. The questions require you to perform calculations (arithmetic only) and manipulate the data to obtain answers. 
 
 **C: Data Analysis** — You are provided with a dataset along with background information and data dictionary (when required). You are requested to analyse the data using any method you see fit, in order to gain understanding of patterns existing in the data to answer given questions. You may employ any analytical means and tools at your disposal (no specific tool required or recommended).
 
